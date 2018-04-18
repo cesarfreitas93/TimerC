@@ -1,0 +1,10 @@
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\bin\Debug\view.exe.config
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\bin\Debug\view.exe
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\bin\Debug\view.pdb
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.MainForm.resources
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.csproj.GenerateResource.Cache
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.exe
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.pdb
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.Form1.resources
+C:\Users\Cesar\Documents\SharpDevelop Projects\Cronometro\view\obj\Debug\view.Form2.resources
